@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 nav: About
 ---
-![Mangatar]({{ site.url }}/assets/img/mangatar_circle.png){: .img-center}
+![Mangatar]({{ site.github.url }}/assets/img/mangatar_circle.png){: .img-center}
 
 ### TL;DR
 Full-stack web developer excited about interdisciplinary collaboration, open source software, and facilitating supportive team environments.

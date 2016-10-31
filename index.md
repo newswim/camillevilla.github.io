@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-![Mangatar]({{ site.url }}/assets/img/mangatar_circle.png){: .img-center}
+![Mangatar]({{ site.github.url }}/assets/img/mangatar_circle.png){: .img-center}
 
 ### TL;DR
 Full-stack web developer excited about interdisciplinary collaboration, open source software, and facilitating supportive team environments.

@@ -74,12 +74,12 @@ Co-facilitator, Summer 2014 - Spring 2016 \| BDHWG  is a bi-weekly “low-stakes
 Co-organizer, 2014 - present \| BayDH is an organization bringing together academics, journalists, librarians, developers, data scientists, artists, designers and anyone else who is interested in exploring the intersection between humanities and technology. The focus is building ties between industry, the academy, and the public to promote digital humanities scholarship.
 
 #### [HacktheHearst](http://digitalhumanities.berkeley.edu/projects/hackthehearst)
-![Logo: HackTheHearst]({{ site.url }}/assets/img/hackthehearst.png){: .img-block}
+![Logo: HackTheHearst]({{ site.github.url }}/assets/img/hackthehearst.png){: .img-block}
 
 September 2014 \| HackTheHeast was an 11-day hackathon for the Phoebe A. Hearst Museum of Anthropology. The event was open to the community and invited participants to build apps for researchers, heritage communities, and K-12 education.
 
 #### [HackFSM](http://digitalhumanities.berkeley.edu/projects/hackfsm)
-![Logo: HackFSM]({{ site.url }}/assets/img/hackfsm.png){: .img-block}
+![Logo: HackFSM]({{ site.github.url }}/assets/img/hackfsm.png){: .img-block}
 
 April 2014 \| HackFSM was a 10-day digital humanities hackathon based around the Free Speech Movement Digital Archive. See organizers' whitepaper, ["#HackFSM: Bootstrapping a Library Hackathon in Eight Short Weeks"](http://research-it.berkeley.edu/publications/hackfsm-bootstrapping-library-hackathon-eight-short-weeks)
 
