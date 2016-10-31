@@ -10,7 +10,7 @@ nav: DH
 - [Resource Guides](#resource-guides)
 - [Speaking](#speaking)
 - [Community and Events](#community-and-events)
-{: .test}
+{: .bubble-nav}
 
 In July 2014, UC Berkeley was awarded a four-year grant from the Andrew W. Mellon Foundation. With the goal of "Capacity Building and Integration", a new partnership between [Research IT](research-it.berkeley.edu) and the Dean of Arts and Humanities set out to better support existing projects and foster new digital humanities research and pedagogy. As hire #3 of this budding program, my role evolved to meet the program's various needs in communications, community outreach, training, curriculum development, and course support.
 
