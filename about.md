@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /about/
-nav: About
 ---
 ![Mangatar]({{ site.github.url }}/assets/img/mangatar_circle.png){: .img-center}
 
